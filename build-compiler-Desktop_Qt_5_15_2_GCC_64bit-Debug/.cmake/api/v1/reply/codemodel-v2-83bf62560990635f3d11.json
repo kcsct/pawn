@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "pawnc",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "pawnc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pawnc-Debug-af7ec38765215294970f.json",
+					"name" : "pawnc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pawncc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pawncc-Debug-cee987cedead45c33231.json",
+					"name" : "pawncc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pawndisasm::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pawndisasm-Debug-323764337b869b7b5953.json",
+					"name" : "pawndisasm",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stategraph::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stategraph-Debug-02a46566622b802c1128.json",
+					"name" : "stategraph",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/media/pierre/Portable2/Projects/Modems/ME16-Firmware/ME16-ESP32/pawn/build-compiler-Desktop_Qt_5_15_2_GCC_64bit-Debug",
+		"source" : "/media/pierre/Portable2/Projects/Modems/ME16-Firmware/ME16-ESP32/pawn/compiler"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

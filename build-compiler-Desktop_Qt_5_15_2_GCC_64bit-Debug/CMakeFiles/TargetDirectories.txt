@@ -1,0 +1,10 @@
+/media/pierre/Portable2/Projects/Modems/ME16-Firmware/ME16-ESP32/pawn/build-compiler-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/media/pierre/Portable2/Projects/Modems/ME16-Firmware/ME16-ESP32/pawn/build-compiler-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/media/pierre/Portable2/Projects/Modems/ME16-Firmware/ME16-ESP32/pawn/build-compiler-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/media/pierre/Portable2/Projects/Modems/ME16-Firmware/ME16-ESP32/pawn/build-compiler-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/media/pierre/Portable2/Projects/Modems/ME16-Firmware/ME16-ESP32/pawn/build-compiler-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/pawnc.dir
+/media/pierre/Portable2/Projects/Modems/ME16-Firmware/ME16-ESP32/pawn/build-compiler-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/install.dir
+/media/pierre/Portable2/Projects/Modems/ME16-Firmware/ME16-ESP32/pawn/build-compiler-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/media/pierre/Portable2/Projects/Modems/ME16-Firmware/ME16-ESP32/pawn/build-compiler-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/pawndisasm.dir
+/media/pierre/Portable2/Projects/Modems/ME16-Firmware/ME16-ESP32/pawn/build-compiler-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/pawncc.dir
+/media/pierre/Portable2/Projects/Modems/ME16-Firmware/ME16-ESP32/pawn/build-compiler-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/stategraph.dir
